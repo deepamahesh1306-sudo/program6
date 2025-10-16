@@ -1,0 +1,7 @@
+EmployeeID,Name,Department,Salary,Age,JoinDate,Attrition
+101,Deepa,IT,50000,28,2022-01-10,No
+102,Mahesh,HR,45000,32,2021-03-05,Yes
+103,Saravanan,Finance,60000,30,2020-07-12,No
+104,Priya,IT,52000,27,2023-02-20,No
+105,Ramesh,HR,47000,35,2019-11-01,Yes
+106,Kavya,Finance,61000,29,2022-05-15,No
